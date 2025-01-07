@@ -35,6 +35,8 @@
   "name":"spaceRocks",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},
+    {"id":{"name":"spr_small_asteroid","path":"sprites/spr_small_asteroid/spr_small_asteroid.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
